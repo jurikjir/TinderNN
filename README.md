@@ -1,4 +1,4 @@
-Tinder Neural network
+# Tinder Neural network
 
 This app serves as automation for Tinder app
 
